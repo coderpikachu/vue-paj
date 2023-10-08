@@ -1,5 +1,4 @@
 name: GitHub Actions Build and Deploy Demo
-uses: peaceiris/actions-gh-pages@v3
 on:
   push:
     branches:
@@ -17,8 +16,8 @@ jobs:
           npm install
           npm run build
       - name: Deploy
-        peaceiris/actions-gh-pages: JamesIves/github-pages-deploy-action@releases/v3
+        uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GITHUB_TOKEN: ${{ secrets.ACESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.going }}
           BRANCH: gh-pages
           FOLDER: dist
