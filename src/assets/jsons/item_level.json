@@ -1,0 +1,2055 @@
+{
+  "items_ext": [
+    {
+      "item_id": "0",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1001",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1004",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1006",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1011",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "1018",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1026",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1027",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1028",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1029",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1031",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "1033",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1035",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1036",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1037",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1038",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1039",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1040",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1042",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1043",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "1052",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1053",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "1054",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1055",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1056",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1057",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "1058",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1082",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1083",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "1101",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1102",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1103",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1104",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1516",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1517",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1518",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1519",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "1520",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2015",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "2049",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2050",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2065",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "2141",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2142",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2143",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2144",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "2419",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3001",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3003",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3004",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3005",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3011",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3012",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3023",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3024",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3026",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3031",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3033",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3035",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3036",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3039",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3041",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3044",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3046",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3050",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3051",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3053",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3057",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3065",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3066",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3067",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3068",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3070",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3071",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3072",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3074",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3075",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3076",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3077",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3078",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3082",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3083",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3084",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3085",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3086",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3087",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3089",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3091",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3094",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3095",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3100",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3102",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3105",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3107",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3108",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3109",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3110",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3113",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3114",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3115",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3116",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3119",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3121",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3123",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3124",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3128",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3133",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3134",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3135",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3139",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3140",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3142",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3143",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3145",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3146",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3152",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3153",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3155",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3156",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3157",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3161",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3165",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3172",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3179",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3181",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3190",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "3191",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3193",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3211",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3222",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3348",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3349",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3430",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "3504",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3508",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3742",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3748",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3801",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3802",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3803",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "3814",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "3850",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3854",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3858",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3862",
+      "roles": "",
+      "category": [
+        "ordinary"
+      ]
+    },
+    {
+      "item_id": "3916",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "4004",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "4005",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "4010",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "4401",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "4628",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "4629",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "4630",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "4632",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "4633",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "4635",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "4636",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "4637",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "4638",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "4642",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "4644",
+      "roles": [
+        "mage"
+      ],
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "4645",
+      "roles": [
+        "mage"
+      ],
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6029",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "6035",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6333",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6609",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6616",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6617",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6620",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6630",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6631",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6632",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6653",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6655",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6656",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6657",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6660",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "6662",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6664",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6665",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6667",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6670",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "6671",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6672",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6673",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6675",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6676",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6677",
+      "roles": "",
+      "category": [
+        "epic"
+      ]
+    },
+    {
+      "item_id": "6691",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6692",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "6693",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6694",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6695",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "6696",
+      "roles": [
+        "assassin",
+        "fighter",
+        "marksman"
+      ],
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "7018",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "7023",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "7024",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "7025",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "7026",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "7027",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "7028",
+      "roles": "",
+      "category": [
+        "myth"
+      ]
+    },
+    {
+      "item_id": "8001",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "8020",
+      "roles": "",
+      "category": [
+        "legend"
+      ]
+    },
+    {
+      "item_id": "222051",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "222065",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223001",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223003",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223004",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223006",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223009",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223011",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223020",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223026",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223031",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223033",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223036",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223040",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223042",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223046",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223047",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223050",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223053",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223065",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223068",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223071",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223072",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223074",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223075",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223078",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223084",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223085",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223087",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223089",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223091",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223094",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223095",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223100",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223102",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223107",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223109",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223110",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223111",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223112",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223115",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223116",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223119",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223121",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223124",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223135",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223139",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223142",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223143",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223152",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223153",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223156",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223157",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223158",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223161",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223165",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223177",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223181",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223184",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223185",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223190",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223193",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223222",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223504",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223508",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223742",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223748",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "223814",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224005",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224401",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224628",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224629",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224633",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224636",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224637",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224644",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "224645",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226035",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226333",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226609",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226616",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226617",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226620",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226630",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226631",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226632",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226653",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226655",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226656",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226657",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226662",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226664",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226665",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226667",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226671",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226672",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226673",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226675",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226676",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226691",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226692",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226693",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226694",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226695",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "226696",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227001",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227002",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227005",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227006",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227009",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227010",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227011",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227012",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227013",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227014",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227015",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227016",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227017",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227018",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227019",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227020",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227021",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227023",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227024",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227025",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227026",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227027",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227028",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227029",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227030",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227031",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227032",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "227033",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "228001",
+      "roles": "",
+      "category": ""
+    },
+    {
+      "item_id": "228020",
+      "roles": "",
+      "category": ""
+    }
+  ],
+  "version": "13.15",
+  "fileName": "items_ext.js",
+  "fileTime": "2023-08-09 15:09:53"
+}
