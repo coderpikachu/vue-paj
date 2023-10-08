@@ -1,4 +1,5 @@
 name: GitHub Actions Build and Deploy Demo
+uses: peaceiris/actions-gh-pages@v3
 on:
   push:
     branches:
