@@ -42,7 +42,7 @@ export default defineConfig({
   server: {
     //主要是加上这段代码
     host: 'localhost',
-    port: 8080,
+    port: 8001,
     proxy: {
       '/api': {
         target: 'https://comp-sync.webapp.163.com', //实际请求地址
