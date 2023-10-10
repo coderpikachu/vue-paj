@@ -48,7 +48,7 @@ const value = ref('Option1');
 const options = [
   {
     value: 'Option1',
-    label: '禁选模式test4',
+    label: '禁选模式test5',
   },
   {
     value: 'Option2',
