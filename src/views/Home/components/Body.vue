@@ -5,7 +5,7 @@
 <!--    &lt;!&ndash;    <el-table-column label="位置" prop="position"/>&ndash;&gt;-->
 <!--    <el-table-column label="T级" prop="level" />-->
     <!--    <el-table-column label="英雄" prop="hero" />-->
-    <el-table-column label="英雄" width="250">
+    <el-table-column label="英雄1" width="250">
       <template #default="scope">
         <div style="display: flex; align-items: center">
           <el-image
