@@ -4,6 +4,16 @@ import { useIdMapStore } from '@/stores/useIdMap';
 
 
 import {storeToRefs} from "pinia";
+import request1 from "@/utils/http1";
+// export const testAPI=()=>{
+//   const url =
+//       '';
+//   //console.log('url', url);
+//   return request1({
+//     url: url,
+//     method: 'GET',
+//   });
+// }
 export const doOnceIdMap = () => {
   console.log('doIdMap');
   var z=0

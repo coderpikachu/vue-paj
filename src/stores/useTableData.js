@@ -8,6 +8,7 @@ import { aliasToUrl, idToLane, laneToId } from '@/utils/trans';
 import {doOnceIdMap } from '@/stores/once.js';
 import imageJson from '@/assets/jsons/image_list.json';
 import { doOnce } from '@/stores/downloadImage';
+import {testAPI} from "@/apis/detail";
 // interface Info {
 //   rank: string;
 //   id: string;
@@ -97,6 +98,8 @@ export const useTableDataStore = defineStore(
     const getAllTableData = async () => {
       //doOnceIdMap()
       //doOnceImageMap()
+        const res=await testAPI()
+        console.log("go_res",res)
       allTableData.value = {
         top: [],
         mid: [],
@@ -136,15 +139,15 @@ export const useTableDataStore = defineStore(
 
             //if(first){
                 first=false
-                console.log("*info")
-                console.log(info)
-                console.log(idMap.value[info.hero_id])
+                // console.log("*info")
+                // console.log(info)
+                // console.log(idMap.value[info.hero_id])
             //}
 
           tableData.value.push(info);
         });
         allTableData.value[idToLane(lane1)] = tableData.value;
-        console.log('t1', allTableData);
+        //console.log('t1', allTableData);
         tableData.value = [];
       }
     };

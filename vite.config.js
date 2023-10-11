@@ -49,10 +49,10 @@ export default defineConfig({
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
-      '/lol': {
-        target: 'https://lol.qq.com', //实际请求地址
+      '/go': {
+        target: 'http://101.43.168.151:8004', //实际请求地址
         changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/lol/, ''),
+        rewrite: (path) => path.replace(/^\/go/, ''),
       },
     },
   },

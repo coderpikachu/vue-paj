@@ -2,7 +2,7 @@
 import axios from 'axios';
 import { ElMessage } from 'element-plus';
 const httpInstance = axios.create({
-  baseURL: '/lol',
+  baseURL: '/go',
   timeout: 5000,
 });
 

@@ -1,4 +1,13 @@
 import request1 from '@/utils/http1';
+export const testAPI=()=>{
+  const url =
+      '/test';
+  console.log('url_go', url);
+  return request1({
+    url: url,
+    method: 'GET',
+  });
+}
 export const getDetailAPI = (heroId) => {
   const url =
     '/act/lbp/common/guides/champDetail/champDetail_' +
