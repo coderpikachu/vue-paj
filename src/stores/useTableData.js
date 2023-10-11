@@ -5,7 +5,8 @@ import { defineStore, storeToRefs } from 'pinia';
 import { useIdMapStore } from '@/stores/useIdMap';
 import { processCounter } from '@/utils/process';
 import { aliasToUrl, idToLane, laneToId } from '@/utils/trans';
-
+import {doOnceIdMap } from '@/stores/once.js';
+import imageJson from '@/assets/jsons/image_list.json';
 import { doOnce } from '@/stores/downloadImage';
 // interface Info {
 //   rank: string;
@@ -94,6 +95,8 @@ export const useTableDataStore = defineStore(
     const { idMap } = storeToRefs(useIdMapStore());
 
     const getAllTableData = async () => {
+      //doOnceIdMap()
+      //doOnceImageMap()
       allTableData.value = {
         top: [],
         mid: [],
@@ -113,6 +116,7 @@ export const useTableDataStore = defineStore(
         //console.log('test2', jsonObj);
         let raws = jsonStr;
         //
+          var first=true
         raws.forEach((raw) => {
           const info = {
             hero_id: raw['hero_id'],
@@ -124,6 +128,18 @@ export const useTableDataStore = defineStore(
           //     info.hero = idMap.value[info.id]['name'];
           //     info.url = aliasToUrl(info.alias);
           //     //console.log('url1', info.url);
+            if (idMap.value[info.hero_id]!==null&&idMap.value[info.hero_id]!==undefined) {
+                info.hero = idMap.value[info.hero_id]['name']
+                info.imageAlias = idMap.value[info.hero_id]['alias']
+                info.imageUrl = imageJson[info.imageAlias]
+            }
+
+            //if(first){
+                first=false
+                console.log("*info")
+                console.log(info)
+                console.log(idMap.value[info.hero_id])
+            //}
 
           tableData.value.push(info);
         });

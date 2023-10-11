@@ -1,6 +1,6 @@
 import { ref, onMounted, onBeforeMount, onBeforeUpdate } from 'vue';
 import { defineStore } from 'pinia';
-import idMapJson from '@/assets/jsons/idMap.json';
+import idMapJson from '@/assets/jsons/mapde.json';
 export const useIdMapStore = defineStore(
   'idMap',
   () => {
@@ -8,6 +8,9 @@ export const useIdMapStore = defineStore(
     const addMap = (id, name, alias) => {
       idMap.value[id] = { name: name, alias: alias };
     };
+    const clear=()=>{
+        idMap.value=ref({})
+    }
 
     const fromJson = (idMapJson) => {
       idMap.value = idMapJson;
@@ -17,9 +20,9 @@ export const useIdMapStore = defineStore(
       fromJson(idMapJson);
     });
 
-    return { idMap, addMap, fromJson };
+    return { idMap, clear,addMap, fromJson };
   },
-  {
-    persist: true,
-  },
+  // {
+  //   persist: true,
+  // },
 );

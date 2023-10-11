@@ -1,0 +1,494 @@
+{
+  "1001": {
+    "name": "姑获鸟",
+    "alias": "gui2/res/head_circle/1001.png"
+  },
+  "1002": {
+    "name": "兵俑",
+    "alias": "gui2/res/head_circle/1002.png"
+  },
+  "1003": {
+    "name": "大天狗",
+    "alias": "gui2/res/head_circle/1003.png"
+  },
+  "1004": {
+    "name": "茨木童子",
+    "alias": "gui2/res/head_circle/1004.png"
+  },
+  "1005": {
+    "name": "妖刀姬",
+    "alias": "gui2/res/head_circle/1005.png"
+  },
+  "1006": {
+    "name": "鬼使黑",
+    "alias": "gui2/res/head_circle/1006.png"
+  },
+  "1007": {
+    "name": "白狼",
+    "alias": "gui2/res/head_circle/1007.png"
+  },
+  "1008": {
+    "name": "妖狐",
+    "alias": "gui2/res/head_circle/1008.png"
+  },
+  "1009": {
+    "name": "惠比寿",
+    "alias": "gui2/res/head_circle/1009.png"
+  },
+  "1010": {
+    "name": "山兔",
+    "alias": "gui2/res/head_circle/1010.png"
+  },
+  "1011": {
+    "name": "酒吞童子",
+    "alias": "gui2/res/head_circle/1011.png"
+  },
+  "1012": {
+    "name": "吸血姬",
+    "alias": "gui2/res/head_circle/1012.png"
+  },
+  "1013": {
+    "name": "荒",
+    "alias": "gui2/res/head_circle/1013.png"
+  },
+  "1014": {
+    "name": "鬼女红叶",
+    "alias": "gui2/res/head_circle/1014.png"
+  },
+  "1015": {
+    "name": "雪女",
+    "alias": "gui2/res/head_circle/1015.png"
+  },
+  "1016": {
+    "name": "骨女",
+    "alias": "gui2/res/head_circle/1016.png"
+  },
+  "1017": {
+    "name": "夜叉",
+    "alias": "gui2/res/head_circle/1017.png"
+  },
+  "1018": {
+    "name": "二口女",
+    "alias": "gui2/res/head_circle/1018.png"
+  },
+  "1019": {
+    "name": "管狐",
+    "alias": "gui2/res/head_circle/1019.png"
+  },
+  "1020": {
+    "name": "一目连",
+    "alias": "gui2/res/head_circle/1020.png"
+  },
+  "1021": {
+    "name": "海坊主",
+    "alias": "gui2/res/head_circle/1021.png"
+  },
+  "1022": {
+    "name": "般若",
+    "alias": "gui2/res/head_circle/1022.png"
+  },
+  "1023": {
+    "name": "鸦天狗",
+    "alias": "gui2/res/head_circle/1023.png"
+  },
+  "1024": {
+    "name": "烟烟罗",
+    "alias": "gui2/res/head_circle/1024.png"
+  },
+  "1025": {
+    "name": "凤凰火",
+    "alias": "gui2/res/head_circle/1025.png"
+  },
+  "1026": {
+    "name": "犬神",
+    "alias": "gui2/res/head_circle/1026.png"
+  },
+  "1027": {
+    "name": "黑童子",
+    "alias": "gui2/res/head_circle/1027.png"
+  },
+  "1028": {
+    "name": "首无",
+    "alias": "gui2/res/head_circle/1028.png"
+  },
+  "1029": {
+    "name": "青蛙瓷器",
+    "alias": "gui2/res/head_circle/1029.png"
+  },
+  "1030": {
+    "name": "辉夜姬",
+    "alias": "gui2/res/head_circle/1030.png"
+  },
+  "1031": {
+    "name": "跳跳妹妹",
+    "alias": "gui2/res/head_circle/1031.png"
+  },
+  "1032": {
+    "name": "山童",
+    "alias": "gui2/res/head_circle/1032.png"
+  },
+  "1033": {
+    "name": "小鹿男",
+    "alias": "gui2/res/head_circle/1033.png"
+  },
+  "1034": {
+    "name": "清姬",
+    "alias": "gui2/res/head_circle/1034.png"
+  },
+  "1035": {
+    "name": "判官",
+    "alias": "gui2/res/head_circle/1035.png"
+  },
+  "1036": {
+    "name": "青行灯",
+    "alias": "gui2/res/head_circle/1036.png"
+  },
+  "1037": {
+    "name": "傀儡师",
+    "alias": "gui2/res/head_circle/1037.png"
+  },
+  "1038": {
+    "name": "万年竹",
+    "alias": "gui2/res/head_circle/1038.png"
+  },
+  "1039": {
+    "name": "鸩",
+    "alias": "gui2/res/head_circle/1039.png"
+  },
+  "1040": {
+    "name": "孟婆",
+    "alias": "gui2/res/head_circle/1040.png"
+  },
+  "1041": {
+    "name": "以津真天",
+    "alias": "gui2/res/head_circle/1041.png"
+  },
+  "1042": {
+    "name": "觉",
+    "alias": "gui2/res/head_circle/1042.png"
+  },
+  "1043": {
+    "name": "狸猫",
+    "alias": "gui2/res/head_circle/1043.png"
+  },
+  "1044": {
+    "name": "两面佛",
+    "alias": "gui2/res/head_circle/1044.png"
+  },
+  "1045": {
+    "name": "金鱼姬",
+    "alias": "gui2/res/head_circle/1045.png"
+  },
+  "1046": {
+    "name": "妖琴师",
+    "alias": "gui2/res/head_circle/1046.png"
+  },
+  "1047": {
+    "name": "鬼使白",
+    "alias": "gui2/res/head_circle/1047.png"
+  },
+  "1048": {
+    "name": "络新妇",
+    "alias": "gui2/res/head_circle/1048.png"
+  },
+  "1049": {
+    "name": "九命猫",
+    "alias": "gui2/res/head_circle/1049.png"
+  },
+  "1050": {
+    "name": "萤草",
+    "alias": "gui2/res/head_circle/1050.png"
+  },
+  "1051": {
+    "name": "跳跳哥哥",
+    "alias": "gui2/res/head_circle/1051.png"
+  },
+  "1052": {
+    "name": "镰鼬",
+    "alias": "gui2/res/head_circle/1052.png"
+  },
+  "1053": {
+    "name": "青坊主",
+    "alias": "gui2/res/head_circle/1053.png"
+  },
+  "1054": {
+    "name": "食梦貘",
+    "alias": "gui2/res/head_circle/1054.png"
+  },
+  "1055": {
+    "name": "小松丸",
+    "alias": "gui2/res/head_circle/1055.png"
+  },
+  "1056": {
+    "name": "彼岸花",
+    "alias": "gui2/res/head_circle/1056.png"
+  },
+  "1057": {
+    "name": "荒川之主",
+    "alias": "gui2/res/head_circle/1057.png"
+  },
+  "1058": {
+    "name": "桃花妖",
+    "alias": "gui2/res/head_circle/1058.png"
+  },
+  "1059": {
+    "name": "雪童子",
+    "alias": "gui2/res/head_circle/1059.png"
+  },
+  "1060": {
+    "name": "玉藻前",
+    "alias": "gui2/res/head_circle/1060.png"
+  },
+  "1061": {
+    "name": "御馔津",
+    "alias": "gui2/res/head_circle/1061.png"
+  },
+  "1062": {
+    "name": "花鸟卷",
+    "alias": "gui2/res/head_circle/1062.png"
+  },
+  "1063": {
+    "name": "阎魔",
+    "alias": "gui2/res/head_circle/1063.png"
+  },
+  "1064": {
+    "name": "弈",
+    "alias": "gui2/res/head_circle/1064.png"
+  },
+  "1065": {
+    "name": "山风",
+    "alias": "gui2/res/head_circle/1065.png"
+  },
+  "1066": {
+    "name": "白童子",
+    "alias": "gui2/res/head_circle/1066.png"
+  },
+  "1067": {
+    "name": "日和坊",
+    "alias": "gui2/res/head_circle/1067.png"
+  },
+  "1068": {
+    "name": "追月神",
+    "alias": "gui2/res/head_circle/1068.png"
+  },
+  "1069": {
+    "name": "椒图",
+    "alias": "gui2/res/head_circle/1069.png"
+  },
+  "1070": {
+    "name": "小袖之手",
+    "alias": "gui2/res/head_circle/1070.png"
+  },
+  "1071": {
+    "name": "犬夜叉",
+    "alias": "gui2/res/head_circle/1071.png"
+  },
+  "1072": {
+    "name": "杀生丸",
+    "alias": "gui2/res/head_circle/1072.png"
+  },
+  "1073": {
+    "name": "桔梗",
+    "alias": "gui2/res/head_circle/1073.png"
+  },
+  "1074": {
+    "name": "鬼切",
+    "alias": "gui2/res/head_circle/1074.png"
+  },
+  "1075": {
+    "name": "面灵气",
+    "alias": "gui2/res/head_circle/1075.png"
+  },
+  "1076": {
+    "name": "白藏主",
+    "alias": "gui2/res/head_circle/1076.png"
+  },
+  "1077": {
+    "name": "百目鬼",
+    "alias": "gui2/res/head_circle/1077.png"
+  },
+  "1078": {
+    "name": "书翁",
+    "alias": "gui2/res/head_circle/1078.png"
+  },
+  "1079": {
+    "name": "匣中少女",
+    "alias": "gui2/res/head_circle/1079.png"
+  },
+  "1080": {
+    "name": "薰",
+    "alias": "gui2/res/head_circle/1080.png"
+  },
+  "1081": {
+    "name": "猫掌柜",
+    "alias": "gui2/res/head_circle/1081.png"
+  },
+  "1082": {
+    "name": "座敷童子",
+    "alias": "gui2/res/head_circle/1082.png"
+  },
+  "1083": {
+    "name": "虫师",
+    "alias": "gui2/res/head_circle/1083.png"
+  },
+  "1085": {
+    "name": "一反木绵",
+    "alias": "gui2/res/head_circle/1085.png"
+  },
+  "1087": {
+    "name": "人面树",
+    "alias": "gui2/res/head_circle/1087.png"
+  },
+  "1088": {
+    "name": "铁鼠",
+    "alias": "gui2/res/head_circle/1088.png"
+  },
+  "1089": {
+    "name": "不知火",
+    "alias": "gui2/res/head_circle/1089.png"
+  },
+  "1090": {
+    "name": "大岳丸",
+    "alias": "gui2/res/head_circle/1090.png"
+  },
+  "1092": {
+    "name": "蟹姬",
+    "alias": "gui2/res/head_circle/1092.png"
+  },
+  "1093": {
+    "name": "化鲸",
+    "alias": "gui2/res/head_circle/1093.png"
+  },
+  "1094": {
+    "name": "星熊童子",
+    "alias": "gui2/res/head_circle/1094.png"
+  },
+  "1095": {
+    "name": "阿织",
+    "alias": "gui2/res/head_circle/1095.png"
+  },
+  "1096": {
+    "name": "大司命",
+    "alias": "gui2/res/head_circle/1096.png"
+  },
+  "1097": {
+    "name": "海忍",
+    "alias": "gui2/res/head_circle/1097.png"
+  },
+  "1098": {
+    "name": "天井下",
+    "alias": "gui2/res/head_circle/1098.png"
+  },
+  "1099": {
+    "name": "久次良",
+    "alias": "gui2/res/head_circle/1099.png"
+  },
+  "1100": {
+    "name": "泷夜叉姬",
+    "alias": "gui2/res/head_circle/1100.png"
+  },
+  "1101": {
+    "name": "灶门炭治郎",
+    "alias": "gui2/res/head_circle/1101.png"
+  },
+  "1102": {
+    "name": "灶门祢豆子",
+    "alias": "gui2/res/head_circle/1102.png"
+  },
+  "1103": {
+    "name": "风狸",
+    "alias": "gui2/res/head_circle/1103.png"
+  },
+  "1105": {
+    "name": "纸舞",
+    "alias": "gui2/res/head_circle/1105.png"
+  },
+  "1107": {
+    "name": "铃鹿御前",
+    "alias": "gui2/res/head_circle/1107.png"
+  },
+  "1108": {
+    "name": "黑崎一护",
+    "alias": "gui2/res/head_circle/1108.png"
+  },
+  "1109": {
+    "name": "朽木露琪亚",
+    "alias": "gui2/res/head_circle/1109.png"
+  },
+  "1110": {
+    "name": "鬼童丸",
+    "alias": "gui2/res/head_circle/1110.png"
+  },
+  "1111": {
+    "name": "云外镜",
+    "alias": "gui2/res/head_circle/1111.png"
+  },
+  "1112": {
+    "name": "缘结神",
+    "alias": "gui2/res/head_circle/1112.png"
+  },
+  "1114": {
+    "name": "紧那罗",
+    "alias": "gui2/res/head_circle/1114.png"
+  },
+  "1115": {
+    "name": "十六谷",
+    "alias": "gui2/res/head_circle/1115.png"
+  },
+  "1116": {
+    "name": "千姬",
+    "alias": "gui2/res/head_circle/1116.png"
+  },
+  "1117": {
+    "name": "阿修罗",
+    "alias": "gui2/res/head_circle/1117.png"
+  },
+  "1118": {
+    "name": "帝释天",
+    "alias": "gui2/res/head_circle/1118.png"
+  },
+  "1119": {
+    "name": "恐山安娜",
+    "alias": "gui2/res/head_circle/1119.png"
+  },
+  "1120": {
+    "name": "麻仓叶",
+    "alias": "gui2/res/head_circle/1120.png"
+  },
+  "1121": {
+    "name": "垢尝",
+    "alias": "gui2/res/head_circle/1121.png"
+  },
+  "1124": {
+    "name": "我妻善逸",
+    "alias": "gui2/res/head_circle/1124.png"
+  },
+  "1125": {
+    "name": "嘴平伊之助",
+    "alias": "gui2/res/head_circle/1125.png"
+  },
+  "1126": {
+    "name": "隐良",
+    "alias": "gui2/res/head_circle/1126.png"
+  },
+  "1131": {
+    "name": "闻人翊悬",
+    "alias": "gui2/res/head_circle/1131.png"
+  },
+  "1136": {
+    "name": "夜刀神",
+    "alias": "gui2/res/head_circle/1136.png"
+  },
+  "1138": {
+    "name": "坂田银时",
+    "alias": "gui2/res/head_circle/1138.png"
+  },
+  "1139": {
+    "name": "神乐",
+    "alias": "gui2/res/head_circle/1139.png"
+  },
+  "__v_isShallow": false,
+  "__v_isRef": true,
+  "_rawValue": {},
+  "_value": {}
+}

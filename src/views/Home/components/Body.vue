@@ -1,16 +1,16 @@
 <!--  排名，位置，T级别，英雄，胜率，登场率，Ban率，对位情况（被克制）-->
 <template>
   <el-table :data="tableData" style="width: 100%" @row-click="select">
-    <el-table-column label="排名" prop="rank" />
-    <!--    <el-table-column label="位置" prop="position"/>-->
-    <el-table-column label="T级" prop="level" />
+<!--    <el-table-column label="排名" prop="rank" />-->
+<!--    &lt;!&ndash;    <el-table-column label="位置" prop="position"/>&ndash;&gt;-->
+<!--    <el-table-column label="T级" prop="level" />-->
     <!--    <el-table-column label="英雄" prop="hero" />-->
     <el-table-column label="英雄" width="250">
       <template #default="scope">
         <div style="display: flex; align-items: center">
           <el-image
             style="width: 100px; height: 100px"
-            :src="scope.row.url"
+            :src="scope.row.imageUrl"
             fit="scale-down"
           />
           <span style="margin-left: 10px">{{ scope.row.hero }}</span>

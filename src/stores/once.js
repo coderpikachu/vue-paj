@@ -1,12 +1,25 @@
-// import TestJson from '@/assets/jsons/hero_list.json';
-// import { saveAs } from 'file-saver';
-// const doOnce = () => {
-//   TestJson['hero'].forEach((hero) => {
-//     idMapStore.addMap(hero['heroId'], hero['name'], hero['alias']);
-//   });
-//   const blob = new Blob([JSON.stringify(idMapStore.idMap)], {
-//     type: 'text/plain;charset=utf-8',
-//   });
-//   console.log('导出json', blob);
-//   saveAs(blob, `mapde.json`);
-// };
+import TestJson from '@/assets/jsons/hero_list.json';
+import { saveAs } from 'file-saver';
+import { useIdMapStore } from '@/stores/useIdMap';
+
+
+import {storeToRefs} from "pinia";
+export const doOnceIdMap = () => {
+  console.log('doIdMap');
+  var z=0
+
+  const idMapStore = useIdMapStore();
+  //const { clear, addMap } = storeToRefs(idMapStore);
+  idMapStore.clear()
+  for (var hero in TestJson) {
+    idMapStore.addMap(TestJson[hero]["式神ID"],hero, TestJson[hero]['式神圆头像_新']);
+  }
+
+  const blob = new Blob([JSON.stringify(idMapStore.idMap)], {
+    type: 'text/plain;charset=utf-8',
+  });
+  console.log('导出json', blob);
+  saveAs(blob, `mapde.json`);
+};
+
+
