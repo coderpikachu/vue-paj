@@ -98,8 +98,8 @@ export const useTableDataStore = defineStore(
     const getAllTableData = async () => {
       //doOnceIdMap()
       //doOnceImageMap()
-        const res=await testAPI()
-        console.log("go_res",res)
+      //   const res=await testAPI()
+      //   console.log("go_res",res)
       allTableData.value = {
         top: [],
         mid: [],
